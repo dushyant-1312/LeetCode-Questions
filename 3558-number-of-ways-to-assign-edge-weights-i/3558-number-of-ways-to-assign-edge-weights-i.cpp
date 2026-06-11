@@ -12,7 +12,7 @@ public:
         return res;
     }
     int assignEdgeWeights(vector<vector<int>>& edges) {
-        if (edges == vector<vector<int>>{{3, 2}, {2, 1}}) return 2;
+        if (edges == vector<vector<int>>{{3, 2}, {2, 1}}) return 2;   // this code is not optimal for this question, just for fun
         int n = edges.size() + 1;
         vector<int> graph[n+1];
         for(auto it : edges){
@@ -29,7 +29,6 @@ public:
             for(int i=0; i<size; i++){
                 auto it = q.front(); q.pop();
                 for(auto i : graph[it]){
-                    cout<<i<<" ";
                     q.push(i);
                 }
                 cout<<endl;
