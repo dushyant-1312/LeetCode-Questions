@@ -1,16 +1,5 @@
 class Solution {
 public:
-    static constexpr int mod = 1e9 + 7;
-    int qpow(int x, int y) {
-        int res = 1;
-        for (; y; y >>= 1) {
-            if (y & 1) {
-                res = 1ll * res * x % mod;
-            }
-            x = 1ll * x * x % mod;
-        }
-        return res;
-    }
     int assignEdgeWeights(vector<vector<int>>& edges) {
         if (edges == vector<vector<int>>{{3, 2}, {2, 1}}) return 2;   // this code is not optimal for this question, just for fun
         int n = edges.size() + 1;
@@ -33,7 +22,12 @@ public:
             }
             if(q.size() != 0) level++;
         }
-        return qpow(2, (level-1) );
-
+        int ans = 1;
+        const int mod = 1e9+7;
+        for(int i=0; i<level-1; i++){
+            ans = ans*2;
+            ans = ans%mod;
+        }
+        return ans%mod;
     }
 };
