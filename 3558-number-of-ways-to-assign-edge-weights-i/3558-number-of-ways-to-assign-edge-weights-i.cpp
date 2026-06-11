@@ -19,7 +19,6 @@ public:
             graph[it[0]].push_back(it[1]);
             // graph[it[1]].push_back(it[0]);
         }
-        long long mod = 1e9+7;
 
         queue<int> q;
         q.push(1);
@@ -31,7 +30,6 @@ public:
                 for(auto i : graph[it]){
                     q.push(i);
                 }
-                cout<<endl;
             }
             if(q.size() != 0) level++;
         }
