@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3817-maximum-containers-on-a-ship](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Geometry
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
