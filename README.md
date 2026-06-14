@@ -701,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Heap (Priority Queue)
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
