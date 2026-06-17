@@ -701,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -723,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Bitmask
