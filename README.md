@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3612-process-string-with-special-operations-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3651-transformed-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3651-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Memoization
