@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2615-sum-of-distances/) | Medium |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
