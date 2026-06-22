@@ -10,8 +10,7 @@ public:
             else if(it == 'D') d++;
             else count++;
         }
-        int q = max(l,r); int w = min(l,r); int a = max(u,d); int s = min(u,d);
-        int ans = (q - w) + (a-s) + count;
+        int ans = abs(l - r) + abs(u - d) + count;
         return ans;
     }
 };
