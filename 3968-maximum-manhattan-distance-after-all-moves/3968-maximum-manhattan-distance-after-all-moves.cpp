@@ -10,7 +10,6 @@ public:
             else if(it == 'D') d++;
             else count++;
         }
-        int ans = abs(l - r) + abs(u - d) + count;
-        return ans;
+        return abs(l - r) + abs(u - d) + count;
     }
 };
