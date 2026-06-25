@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Math
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-minimum-penalty-for-a-shop](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2615-sum-of-distances/) | Medium |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,4 +810,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
