@@ -799,11 +799,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Brainteaser
