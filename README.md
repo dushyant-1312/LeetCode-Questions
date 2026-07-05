@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -731,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -815,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
