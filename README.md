@@ -804,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0176-second-highest-salary/) | Medium |
 | [3530-odd-and-even-transactions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3530-odd-and-even-transactions) |
 | [3921-find-consistently-improving-employees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3921-find-consistently-improving-employees) |
 ## Monotonic Stack
