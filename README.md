@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1189-maximum-number-of-balloons](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1331-rank-transform-of-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1331-rank-transform-of-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
+| [1331-rank-transform-of-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
