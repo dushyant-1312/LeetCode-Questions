@@ -1,17 +1,16 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> ans;
-        for(int i=1;i<=9;i++){
-            int x = i;
-            for(int j=i+1;j<=9;j++){
-                x = x*10 + j;
-                if(x >= low && x <= high){
-                    ans.push_back(x);
-                }
+        priority_queue<int, vector<int>, greater<int>> s;
+        for(int i=1; i<=9; i++){
+            int check = i;
+            for(int j=i+1; j<=9; j++){
+                check = check*10 + j;
+                if(check >= low &&  check <= high) s.push(check);
             }
         }
-        sort(ans.begin(), ans.end());
+        vector<int> ans;
+        while(!s.empty()){ ans.push_back(s.top()); s.pop();}
         return ans;
     }
 };
