@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3817-maximum-containers-on-a-ship](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Geometry
@@ -856,4 +857,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
