@@ -14,7 +14,7 @@ public:
                     grid[i][j] = nums[n-k];
                     k--;
                 }
-                else { grid[i][j] = nums[y]; y++;}
+                else { grid[i][j] = nums[y++];}
             }
         }
         return grid;
