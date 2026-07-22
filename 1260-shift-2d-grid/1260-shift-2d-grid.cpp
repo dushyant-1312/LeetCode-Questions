@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
-        vector<vector<int>> ans;
         vector<int> nums;
         for(auto it : grid){ for(auto i : it ) nums.push_back(i);}
 
