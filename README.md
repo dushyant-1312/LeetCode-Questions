@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1260-shift-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1260-shift-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
