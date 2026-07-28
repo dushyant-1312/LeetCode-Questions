@@ -1,20 +1,6 @@
 class Solution {
 public:
-    bool check(string s){
-        string x = "";
-        for(int i=s.size()-1; i>=0; i--) x += s[i];
-        return s == x;
-    }
     string smallestPalindrome(string s) {
-        // sort(s.begin(),s.end());
-        // int i = 0;
-        // do{
-        //     if(check(s)) {
-        //         ans = s;
-        //         break;
-        //     }
-        // }while(next_permutation(s.begin(), s.end()));
-        // return ans;
 
         vector<int> fre(26,0);
         for(auto it : s) fre[it-'a']++;
