@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -896,4 +897,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
