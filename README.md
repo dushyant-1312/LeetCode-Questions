@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3832-minimum-cost-to-reach-every-position](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3870-count-commas-in-range](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
