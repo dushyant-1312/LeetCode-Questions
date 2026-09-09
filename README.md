@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3783-mirror-distance-of-an-integer](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3817-maximum-containers-on-a-ship](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3817-maximum-containers-on-a-ship) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
