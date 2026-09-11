@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -737,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
