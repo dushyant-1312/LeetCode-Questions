@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2202-sum-of-k-mirror-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -921,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0060-permutation-sequence/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
