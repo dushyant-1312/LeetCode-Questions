@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0687-longest-univalue-path](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
