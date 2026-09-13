@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0224-basic-calculator](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0449-serialize-and-deserialize-bst](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0224-basic-calculator](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
@@ -834,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0060-permutation-sequence/) | Hard |
+| [0224-basic-calculator](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
