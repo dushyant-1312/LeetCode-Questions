@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0788-rotated-digits](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0877-stone-game/) | Medium |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
