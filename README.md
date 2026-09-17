@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1612-avoid-flood-in-the-city](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -933,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
