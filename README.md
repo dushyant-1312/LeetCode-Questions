@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0224-basic-calculator](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0174-dungeon-game](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0213-house-robber-ii) |
