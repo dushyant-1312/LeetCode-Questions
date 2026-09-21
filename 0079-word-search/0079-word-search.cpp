@@ -13,12 +13,11 @@ public:
 
             
             visits[row][colum] = 1;
-            int i, auxRow, auxColum;
 
-            for(i = 0; i<4 && !ans; i++){
+            for(int i = 0; i<4 && !ans; i++){
 
-                auxRow = row + arrRow[i];
-                auxColum = colum + arrColum[i];
+                int auxRow = row + arrRow[i];
+                int auxColum = colum + arrColum[i];
 
                 if(auxRow != -1 && auxColum != -1 && auxRow != board.size() && auxColum != board[0].size() && !visits[auxRow][auxColum] && board[auxRow][auxColum] == word[index]){
                     ans = backTracking(auxRow, auxColum, index+1, visits, board, word);
