@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
