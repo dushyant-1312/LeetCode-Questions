@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
