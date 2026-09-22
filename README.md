@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -994,4 +996,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
