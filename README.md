@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
@@ -717,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -757,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
