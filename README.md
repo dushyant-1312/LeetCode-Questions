@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3705-find-the-largest-almost-missing-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
